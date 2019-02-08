@@ -4,6 +4,12 @@ Date/Time: 11 February 2019 @ 11:00-17:30
 Agenda
 0. Agenda bash
 1. CLA and IPR Home
-2. Satosa 
+2. Satosa / PySaml2 / OIDC libs
    - Packaging microservices
-3. Working with interns
+   - Error handling frontend design
+   - Logging & Error handling (cross-cutting concerns)
+3. Working with people (new devs & users)
+   - Documentation / Getting started
+   - Dev and debug tools / Developers guide
+   - Infographics
+   - External resources
