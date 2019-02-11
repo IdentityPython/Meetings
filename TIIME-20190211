@@ -3,13 +3,23 @@ Date/Time: 11 February 2019 @ 11:00-17:30
 
 Agenda
 0. Agenda bash
-1. CLA and IPR Home
-2. Satosa / PySaml2 / OIDC libs
+1. Round table presentations
+2. CLA and IPR Home
+3. Satosa / PySaml2 / OIDC libs
    - Packaging microservices
    - Error handling frontend design
    - Logging & Error handling (cross-cutting concerns)
-3. Working with people (new devs & users)
+4. Working with people (new devs & users)
    - Documentation / Getting started
    - Dev and debug tools / Developers guide
    - Infographics
    - External resources
+
+
+Parking lot
+   - pyFF backend protocol extensions & API refactor
+      - placeholder logos
+      - search
+   - RA21 roadmap & new frontend
+   - Branch-based release process
+   - pyXMLSecurity update
