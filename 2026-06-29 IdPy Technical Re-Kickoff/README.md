@@ -24,10 +24,10 @@
 
 ## Topics Discussed
 * [General Comments about the Technical Charter](#general-comments-about-the-technical-charter)
-* [DISCUSSION: Deliverable: 6-month work plan](#discussion:-deliverable:-6-month-work-plan)
-* [WORKSTREAM: GOVERNANCE](#workstream:-governance)
-* [WORKSTREAM: Fork Review Summary & Roadmap](#workstream:-fork-review-summary-&-roadmap)
-* [WORKSTREAM: Prioritized Documentation Roadmap](#workstream:-prioritized-documentation-roadmap)
+* [DISCUSSION: Deliverable: 6-month work plan](#discussion-6-month-work-plan)
+* [WORKSTREAM: GOVERNANCE](#workstream-governance)
+* [WORKSTREAM: Fork Review Summary & Roadmap](#workstream-fork-review-summary--roadmap)
+* [WORKSTREAM: Prioritized Documentation Roadmap](#workstream-prioritized-documentation-roadmap)
 * [Next steps](#next-steps)
 
 
@@ -50,7 +50,7 @@
 
 *Also see [AI-generated Meeting Summary](#ai-generated-meeting-summary)*
 
-## **General Comments about the Technical Charter** {#general-comments-about-the-technical-charter}
+## **General Comments about the Technical Charter**
 
 ![image1](images/Miro-TechnicalCharterDiscussion.png)
 
@@ -73,7 +73,7 @@ Also visible in [Miro](https://miro.com/app/board/uXjVHB5B-ZQ=/?moveToWidget=345
     * PyPY org setup/admin and   
     * project transfers
 
-## **DISCUSSION: Deliverable: 6-month work plan** {#discussion:-deliverable:-6-month-work-plan}
+## **DISCUSSION: 6-month work plan**
 
 ![image2](images/Miro-Deliverable6-monthPlan.png)  
 
@@ -88,7 +88,7 @@ Also visible in [Miro](https://miro.com/app/board/uXjVHB5B-ZQ=/?moveToWidget=345
 * TASKS  
   * Set up specific workstreams (see below) 	
 
-## **WORKSTREAM: GOVERNANCE** {#workstream:-governance}
+## **WORKSTREAM: GOVERNANCE**
 
 ![image3](images/Miro-TechnicalGovernanceWorkflow.png)  
 
@@ -128,7 +128,7 @@ Also visible in [Miro](https://miro.com/app/board/uXjVHB5B-ZQ=/?moveToWidget=345
       * [Meritocracy model template](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)  
       * [Node.js’s liberal contribution policy](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
 
-## **WORKSTREAM: Fork Review Summary & Roadmap** {#workstream:-fork-review-summary-&-roadmap}
+## **WORKSTREAM: Fork Review Summary & Roadmap**
 
 ![image4](images/Miro-ForkReview.png)
 Also visible in [Miro](https://miro.com/app/board/uXjVHB5B-ZQ=/?moveToWidget=3458764676609556437&cot=14) PW: idpy2026
@@ -142,7 +142,7 @@ Also visible in [Miro](https://miro.com/app/board/uXjVHB5B-ZQ=/?moveToWidget=345
 * MILESTONES  
   * Fork review and merge plans
 
-## **WORKSTREAM: Prioritized Documentation Roadmap** {#workstream:-prioritized-documentation-roadmap}
+## **WORKSTREAM: Prioritized Documentation Roadmap**
 
 ![image5](images/Miro-DocumentationRoadmap.png)
 Also visible in [Miro](https://miro.com/app/board/uXjVHB5B-ZQ=/?moveToWidget=3458764676609556699&cot=14) PW: idpy2026
