@@ -118,16 +118,6 @@ Also visible in [Miro](https://miro.com/app/board/uXjVHB5B-ZQ=/?moveToWidget=345
   * Practices  
   * Privileges
 
-* Items to move to the next document for this group:  
-  * Existing work: [https://github.com/IdentityPython/Governance/tree/master](https://github.com/IdentityPython/Governance/tree/master)   
-    * [Security Incident Response Plan](https://github.com/IdentityPython/Governance/blob/master/idpy-incidentresponse.md)  
-    * [Project Statutes](https://github.com/IdentityPython/Governance/blob/master/idpy-statutes.md)  
-    * [Project Addition Policy](https://github.com/IdentityPython/Governance/blob/master/idpy-projects.md)  
-    * Governance Model Decision \- how do technical decisions get made? Example models[<sup>1</sup>](https://opensource.guide/leadership-and-governance/):  
-      * [BDFL model template](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)  
-      * [Meritocracy model template](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)  
-      * [Node.js’s liberal contribution policy](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
-
 ## **WORKSTREAM: Fork Review Summary & Roadmap**
 
 ![image4](images/Miro-ForkReview.png)
