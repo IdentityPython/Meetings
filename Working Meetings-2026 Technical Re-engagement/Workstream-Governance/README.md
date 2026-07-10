@@ -1,4 +1,4 @@
-IdPy Working Meetings: GOVERNANCE
+IdPy Worksteam: GOVERNANCE
 ==================================
 
 This folder contains meeting notes and artifacts for the workstream discussing the **Technical Governance Workflow**.

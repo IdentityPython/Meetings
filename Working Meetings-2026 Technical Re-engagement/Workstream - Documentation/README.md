@@ -1,4 +1,4 @@
-IdPy Working Meetings: DOCUMENTATION
+IdPy Worksteam: DOCUMENTATION
 ====================================
 
 This folder contains meeting notes and artifacts for the workstream discussing the **Prioritized Documentation Roadmap**.

@@ -1,4 +1,4 @@
-IdPy Working Meetings: FORK REVIEW
+IdPy Worksteam: FORK REVIEW
 ==================================
 
 This folder contains meeting notes and artifacts for the workstream discussing the **Prioritized Documentation Roadmap**.
