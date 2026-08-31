@@ -5,20 +5,30 @@ In mid 2026, members of the IdPy community engaged to re-establish the IdPy proj
 
 ## Workstreams
 
-* Technical Governance
-* Fork Review Summary & Roadmap
-* Prioritized Documentation Roadmap
+* **[Technical Governance](Workstream-Governance)**
+
+    ***Participants**: Alessandro, Elliott, Hannah, Ivan, Laura, Nanyonga, Derrick, Matthew, Robin, Vlad, Federico*
+
+* **[Fork Review Summary & Roadmap](Workstream-Fork%20Review)**
+
+    ***Participants**: Alessandro, Hannah, Ivan, Laura, Lundberg, Matthew, Michael*
+
+* **[Prioritized Documentation Roadmap](Workstream%20-%20Documentation)**
+
+    ***Participants**: Shayna, Hannah, Nanyonga, Ivan, Laura, Derrick, Matthew, Elliott, Vlad*
 
 ## Meetings
 
-| DATE                                                     | MEETING                      | TYPE                             | MATERIALS                                                      |
-|----------------------------------------------------------|------------------------------|----------------------------------|----------------------------------------------------------------|
-| [availability poll](https://forms.gle/yJgqhcWYPaoH1Hey9) | IdPy Full Technical Check-in | :sunglasses: Full Technical Team | :thought_balloon:                                              |
-| :point_up: see poll above                                | Workstream: Governance       | :pencil: Workstream              | :thought_balloon:                                              |
-| :point_up: see poll above                                | Workstream: Fork Review      | :pencil: Workstream              | :thought_balloon:                                              |
-| :point_up: see poll above                                | Workstream: Documentation    | :pencil: Workstream              | :thought_balloon:                                              |
-| :calendar: 2026-06-26                                    | IdPy Technical Re-kickoff    | :sunglasses: Full Technical Team | [Meeting notes](../2026-06-29%20IdPy%20Technical%20Re-Kickoff) |
-| :calendar: 2026-06-17                                    | IdPy Town Hall               | :sparkles: Full Community        | [Meeting Notes/Resources](../2026-06-17%20IdPY%20Town%20Hall)  |
+Subscribe to the IdPy Meeting Calendar: https://www.addevent.com/calendar/tt4fnvvjjnsk
+
+| DATE                                         | MEETING                      | TYPE                             | MATERIALS                                                      |
+|----------------------------------------------|------------------------------|----------------------------------|----------------------------------------------------------------|
+| To be scheduled                              | IdPy Full Technical Check-in | :sunglasses: Full Technical Team | :thought_balloon:                                              |
+| :calendar: Every 2 weeks starting 2026-09-16 | Workstream: Governance       | :pencil: Workstream              | [Governance Folder](Workstream-Governance)                     |
+| :calendar: Every 2 weeks starting 2026-09-15 | Workstream: Fork Review      | :pencil: Workstream              | [Fork Review Folder](Workstream-Fork%20Review)                 |
+| :calendar" Every 2 weeks starting 2026-09-23 | Workstream: Documentation    | :pencil: Workstream              | [Documentation Folder](Workstream%20-%20Documentation)         |
+| :calendar: 2026-06-26                        | IdPy Technical Re-kickoff    | :sunglasses: Full Technical Team | [Meeting notes](../2026-06-29%20IdPy%20Technical%20Re-Kickoff) |
+| :calendar: 2026-06-17                        | IdPy Town Hall               | :sparkles: Full Community        | [Meeting Notes/Resources](../2026-06-17%20IdPY%20Town%20Hall)  |
 
 ## Current Participants
 * Immaculate Ameso
