@@ -1,10 +1,12 @@
 IdPy Worksteam: FORK REVIEW
 ==================================
 
-This folder contains meeting notes and artifacts for the workstream discussing the **Prioritized Documentation Roadmap**.
+This folder contains meeting notes and artifacts for the workstream discussing the **Code Forks and their inclusion in the Master Branch**.
 
-## Participants
-*Matthew, Lundberg, Alessandro, Hannah*
+## Invited Participants (8)
+*Laura Paglione, Michael Jones, Alessandro Distaso, Ivan Kanakarakis, Hannah Sebuliba, Matthew Economou, Johan Lundberg, Vlad Mencl*
+
+> _**Want to participate?** [RSVP](https://www.addevent.com/event/h4wpddtn7t7h/?embed=true&embedshare=no) to register for the working group meetings._
 
 ## KEY DELIVERABLES IN SCOPE
 * Catalog of forked projects and what they contain
@@ -18,6 +20,31 @@ This folder contains meeting notes and artifacts for the workstream discussing t
 * List out all the forks 
 * Fork review and develop merge plans
 * Prioritize security concerns and potential already existing fixes
+
+## MEETINGS
+
+### UPCOMING
+1. :calendar: 2026-09-15 - [Agenda/meeting notes](2026-09-15_ForkReview_Agenda-Notes.md)
+    * Review and consent to Key Deliverables, Goals, and Tasks
+    * Consent to high-level schedule through the end of 2026
+    * Determine the tasks we'll accomplish for the next meeting.
+
+### FUTURE MEETINGS
+
+> _Each of the future meetings will have a similar agenda format:_
+> * Review progress - discuss blockers
+> * Review schedule for upcoming meetings for feasibility
+> * Determine the tasks we'll accomplish for the next meeting
+
+2. :calendar: 2026-10-07
+3. :calendar: 2026-10-21
+4. :calendar: 2026-11-04
+5. :calendar: 2026-11-18
+6. :calendar: 2026-12-02
+7. :calendar: 2026-12-16
+8. :calendar: 2026-11-30
+
+---
 
 ## RESOURCES
 
