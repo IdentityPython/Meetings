@@ -6,7 +6,7 @@ This folder contains meeting notes and artifacts for the workstream discussing t
 ## Invited Participants (8)
 *Laura Paglione, Michael Jones, Alessandro Distaso, Ivan Kanakarakis, Hannah Sebuliba, Matthew Economou, Johan Lundberg, Vlad Mencl*
 
-<div class="addevent-event-embed" data-event="h4wpddtn7t7h" data-box-style="1" data-height="auto" data-share="no"></div><script type="text/javascript" src="https://cdn.addevent.com/libs/evt/event.embed.v1.js"></script>
+> _**Want to participate?** [RSVP](https://www.addevent.com/event/h4wpddtn7t7h/?embed=true&embedshare=no) to register for the working group meetings._
 
 ## KEY DELIVERABLES IN SCOPE
 * Catalog of forked projects and what they contain
