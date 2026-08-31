@@ -1,7 +1,7 @@
 IdPy Worksteam: FORK REVIEW
 ==================================
 
-This folder contains meeting notes and artifacts for the workstream discussing the **Prioritized Documentation Roadmap**.
+This folder contains meeting notes and artifacts for the workstream discussing the **Code Forks and their inclusion in the Master Branch**.
 
 ## Invited Participants (8)
 *Laura Paglione, Michael Jones, Alessandro Distaso, Ivan Kanakarakis, Hannah Sebuliba, Matthew Economou, Johan Lundberg, Vlad Mencl*

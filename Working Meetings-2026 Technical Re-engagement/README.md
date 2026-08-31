@@ -7,15 +7,15 @@ In mid 2026, members of the IdPy community engaged to re-establish the IdPy proj
 
 * **[Technical Governance](Workstream-Governance)**
 
-    ***Participants**: Alessandro, Elliott, Hannah, Ivan, Laura, Nanyonga, Derrick, Matthew, Robin, Vlad, Federico*
+    ***Participants** (11): Alessandro, Elliott, Hannah, Ivan, Laura, Nanyonga, Derrick, Matthew, Robin, Vlad, Federico*
 
 * **[Fork Review Summary & Roadmap](Workstream-Fork%20Review)**
 
-    ***Participants**: Alessandro, Hannah, Ivan, Laura, Lundberg, Matthew, Michael*
+    ***Participants** (8): Alessandro, Hannah, Ivan, Laura, Lundberg, Matthew, Michael. Vlad*
 
 * **[Prioritized Documentation Roadmap](Workstream%20-%20Documentation)**
 
-    ***Participants**: Shayna, Hannah, Nanyonga, Ivan, Laura, Derrick, Matthew, Elliott, Vlad*
+    ***Participants** (9): Shayna, Hannah, Nanyonga, Ivan, Laura, Derrick, Matthew, Elliott, Vlad*
 
 ## Meetings
 
