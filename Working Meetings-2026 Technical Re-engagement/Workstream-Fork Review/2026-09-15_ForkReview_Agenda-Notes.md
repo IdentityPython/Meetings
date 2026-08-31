@@ -5,7 +5,7 @@ _2026 September 15_
 # Agenda
 * Review and consent to Key Deliverables, Goals, and Tasks
 * Consent to high-level schedule through the end of 2026
-* Determine the tasks we'll accomplish for the next meeting.
+* Determine the tasks we'll accomplish for the next meeting
 
 # Attendees
 

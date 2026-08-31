@@ -26,7 +26,7 @@ Subscribe to the IdPy Meeting Calendar: https://www.addevent.com/calendar/tt4fnv
 | To be scheduled                              | IdPy Full Technical Check-in | :sunglasses: Full Technical Team | :thought_balloon:                                              |
 | :calendar: Every 2 weeks starting 2026-09-16 | Workstream: Governance       | :pencil: Workstream              | [Governance Folder](Workstream-Governance)                     |
 | :calendar: Every 2 weeks starting 2026-09-15 | Workstream: Fork Review      | :pencil: Workstream              | [Fork Review Folder](Workstream-Fork%20Review)                 |
-| :calendar" Every 2 weeks starting 2026-09-23 | Workstream: Documentation    | :pencil: Workstream              | [Documentation Folder](Workstream%20-%20Documentation)         |
+| :calendar: Every 2 weeks starting 2026-09-23 | Workstream: Documentation    | :pencil: Workstream              | [Documentation Folder](Workstream%20-%20Documentation)         |
 | :calendar: 2026-06-26                        | IdPy Technical Re-kickoff    | :sunglasses: Full Technical Team | [Meeting notes](../2026-06-29%20IdPy%20Technical%20Re-Kickoff) |
 | :calendar: 2026-06-17                        | IdPy Town Hall               | :sparkles: Full Community        | [Meeting Notes/Resources](../2026-06-17%20IdPY%20Town%20Hall)  |
 

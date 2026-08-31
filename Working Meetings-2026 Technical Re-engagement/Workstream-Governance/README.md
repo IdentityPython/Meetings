@@ -6,6 +6,8 @@ This folder contains meeting notes and artifacts for the workstream discussing t
 ## Invited Participants (11)
 *Alessandro, Elliott, Hannah, Ivan, Laura, Nanyonga, Derrick, Matthew, Robin, Vlad, Federico*
 
+> _**Want to participate?** [RSVP](https://www.addevent.com/event/17shn90s86cf/?embed=true&embedshare=no) to register for the working group meetings._
+
 ## KEY DELIVERABLES IN SCOPE
 * Defined and functioning maintainer model
   * Documentation release process

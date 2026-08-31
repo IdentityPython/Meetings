@@ -6,7 +6,7 @@ This folder contains meeting notes and artifacts for the workstream discussing t
 ## Invited Participants (9)
 *Shayna Atkinson, Hannah Sebuliba, Nanyonga Rahmah, Ivan Kanakarakis, Derrick Ssemanda, Matthew Economou, Elliott Elrod, Vlad Mencl, Laura Paglione*
 
-> _**Want to participate?** [RSVP](https://www.addevent.com/event/h4wpddtn7t7h/?embed=true&embedshare=no) to register for the working group meetings._
+> _**Want to participate?** [RSVP](https://www.addevent.com/event/v1pxwkxqqtf0/?embed=true&embedshare=no) to register for the working group meetings._
 
 ## KEY DELIVERABLES IN SCOPE
 * Outline of the documentation content that is needed
