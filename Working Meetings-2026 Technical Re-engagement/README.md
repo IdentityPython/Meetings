@@ -47,6 +47,7 @@ Subscribe to the IdPy Meeting Calendar: https://www.addevent.com/calendar/tt4fnv
 * Vladimir Mencl
 * Rahmah Nanyonga
 * Laura Paglione
+* Shannon Roddy
 * Hannah Sebuliba
 * Derrick Ssemanda
 * Christopher Whalen
