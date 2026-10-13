@@ -38,8 +38,13 @@ This folder contains meeting notes and artifacts for the workstream discussing t
 
 ## MEETINGS
 
-### UPCOMING
+### PAST MEETINGS
 1. :calendar: 2026-09-23 - [Agenda/meeting notes](2026-09-23_Documentation_Agenda-Notes.md)
+2. :calendar: 2026-10-07 - [Agenda/meeting notes](2026-10-07_Documentation_Agenda-Notes.md)
+
+
+### UPCOMING
+3. :calendar: 2026-10-21 - [Agenda/meeting notes](2026-10-21_Documentation_Agenda-Notes.md)
    * Review and consent to Key Deliverables, Goals, and Tasks
    * Consent to high-level schedule through the end of 2026
    * Determine the tasks we'll accomplish for the next meeting.
@@ -51,8 +56,6 @@ This folder contains meeting notes and artifacts for the workstream discussing t
 > * Review schedule for upcoming meetings for feasibility
 > * Determine the tasks we'll accomplish for the next meeting
 
-2. :calendar: 2026-10-07
-3. :calendar: 2026-10-21
 4. :calendar: 2026-11-04
 5. :calendar: 2026-11-18
 6. :calendar: 2026-12-02
