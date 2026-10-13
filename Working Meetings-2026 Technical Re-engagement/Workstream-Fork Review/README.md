@@ -23,11 +23,18 @@ This folder contains meeting notes and artifacts for the workstream discussing t
 
 ## MEETINGS
 
-### UPCOMING
+### PAST MEETINGS
 1. :calendar: 2026-09-15 - [Agenda/meeting notes](2026-09-15_ForkReview_Agenda-Notes.md)
-    * Review and consent to Key Deliverables, Goals, and Tasks
-    * Consent to high-level schedule through the end of 2026
-    * Determine the tasks we'll accomplish for the next meeting.
+2. :calendar: 2026-09-29 - [Agenda/meeting notes](2026-09-29_ForkReview_Agenda-Notes.md)
+3. :calendar: 2026-10-13 - [Agenda/meeting notes](2026-10-13_ForkReview_Agenda-Notes.md)
+4. :calendar: 2026-10-27 - _CANCELLED for TechEx Conference_
+
+
+### UPCOMING
+5. :calendar: 2026-11-10 - [Agenda/meeting notes](2026-09-15_ForkReview_Agenda-Notes.md)
+    * Review progress - discuss blockers
+    * Review schedule for upcoming meetings for feasibility
+    * Determine the tasks we'll accomplish for the next meeting
 
 ### FUTURE MEETINGS
 
@@ -36,13 +43,9 @@ This folder contains meeting notes and artifacts for the workstream discussing t
 > * Review schedule for upcoming meetings for feasibility
 > * Determine the tasks we'll accomplish for the next meeting
 
-2. :calendar: 2026-10-07
-3. :calendar: 2026-10-21
-4. :calendar: 2026-11-04
-5. :calendar: 2026-11-18
-6. :calendar: 2026-12-02
-7. :calendar: 2026-12-16
-8. :calendar: 2026-11-30
+6. :calendar: 2026-11-24
+7. :calendar: 2026-12-08
+8. :calendar: 2026-12-22
 
 ---
 

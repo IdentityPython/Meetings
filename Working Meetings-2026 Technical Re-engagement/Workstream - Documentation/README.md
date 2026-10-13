@@ -4,7 +4,7 @@ IdPy Worksteam: DOCUMENTATION
 This folder contains meeting notes and artifacts for the workstream discussing the **Prioritized Documentation Roadmap**.
 
 ## Invited Participants (9)
-*Shayna Atkinson, Hannah Sebuliba, Nanyonga Rahmah, Ivan Kanakarakis, Derrick Ssemanda, Matthew Economou, Elliott Elrod, Vlad Mencl, Laura Paglione*
+*Shayna Atkinson, Hannah Sebuliba, Nanyonga Rahmah, Ivan Kanakarakis, Derrick Ssemanda, Matthew Economou, Elliott Elrod, Vlad Mencl, Shannon Roddy, Laura Paglione*
 
 > _**Want to participate?** [RSVP](https://www.addevent.com/event/v1pxwkxqqtf0/?embed=true&embedshare=no) to register for the working group meetings._
 
