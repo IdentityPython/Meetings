@@ -9,7 +9,7 @@ _2026 September 16_
 
 # Attendees
 
-**IN ATTENDANCE**: Elliott Elrod, Rahmah Nanyonga, Hannah Sebuila, Alessandro Distaso, Ivan Kanakari
+**IN ATTENDANCE**: Elliott Elrod, Rahmah Nanyonga, Hannah Sebuila, Alessandro Distaso, Ivan Kanakarakis
 
 **REGRETS**:
 
