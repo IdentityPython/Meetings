@@ -7,6 +7,7 @@ _2026 November 18_
     - [ ] Documentation structure and tooling proposal _(Matthew)_
     - [ ] Documentation inventory template _(Laura)_
     - [ ] [Examples](2026-11 DRAFT IdPy Documentation Examples.md) of high-quality documentation _(Laura)_
+    - [ ] [Documentation Inventory](2026-11%20DRAFT%20IdPy%20Documentation%20Inventory.md) _(First pass, w/AI assist)_
 * Further the discussion about [IdPy Documentation Policy](https://docs.google.com/document/d/1AgS15-xktdid1GWwDlCmMzbjMmJsenLG40RHX4CBdAs/edit?usp=sharing) 
 * Determine the tasks we'll accomplish for the next meeting.
 

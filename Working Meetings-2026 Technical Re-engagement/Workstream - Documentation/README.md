@@ -41,6 +41,7 @@ _Artifacts created by the workgroup_
 
 * [Draft Policy Discussion](2026-11%20DRAFT%20IdPy%20Documentation%20Policy%20-%20Discussion%20Guide.md)
 * [Sample Documentation Examples](2026-11%20DRAFT%20IdPy%20Documentation%20Examples.md)
+* [Documentation Inventory](2026-11%20DRAFT%20IdPy%20Documentation%20Inventory.md)
 * Auto-generated documentation experiments from [`saml2.client`](https://github.com/IdentityPython/pysaml2/blob/master/src/saml2/client.py)
   * [in GitHub Pages](https://sebulibah.github.io/pysaml2/) _(Hannah)_
   * [in Read The Docs](https://rtd-docs-example.readthedocs.io/en/latest/) _(Laura)_
@@ -60,6 +61,7 @@ _Artifacts created by the workgroup_
        - [ ] Documentation structure and tooling proposal _(Matthew)_
        - [ ] Documentation inventory template _(Laura)_
        - [ ] [Examples](2026-11 DRAFT IdPy Documentation Examples.md) of high-quality documentation _(Laura)_
+       - [ ] [Documentation Inventory](2026-11%20DRAFT%20IdPy%20Documentation%20Inventory.md) _(First pass, w/AI assist)_
    * Further the discussion about [IdPy Documentation Policy in GoogleDocs](https://docs.google.com/document/d/1AgS15-xktdid1GWwDlCmMzbjMmJsenLG40RHX4CBdAs/edit?usp=sharing) _([4-Nov-2026 version on Github](2026-11%20DRAFT%20IdPy%20Documentation%20Policy%20-%20Discussion%20Guide.md))_
    * Determine the tasks we'll accomplish for the next meeting.
 
