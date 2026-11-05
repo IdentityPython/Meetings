@@ -2,6 +2,11 @@
 
 _For the Documentation workstream · facilitated by Laura Paglione · draft 4 Nov 2026_
 
+> [!NOTE]
+> This document has been transferred to a temporary document for collaborative editing. This document will be replaced by the policy document when finalized. 
+>
+> Members of this workstream may access the collaboration draft [here](https://docs.google.com/document/d/1AgS15-xktdid1GWwDlCmMzbjMmJsenLG40RHX4CBdAs/edit?usp=sharing). 
+
 **What we're deciding.** For each aspect of documentation (what content exists, how it's written, what tools build it, what contributors must do in a pull request), the group decides two things:
 
 1. **How strongly** IdPy asks for it.
@@ -130,11 +135,11 @@ When a row stalls, ask:
 ## 5. Suggested session plan
 
 | Session | Date (from the workstream schedule) | Goal | Output |
-|---|---|---|---|
-| 1 | 18 Nov | Agree the vocabulary and principles (sections 1–2); quick pass through tables A and D | Rows marked agreed / adjusted / discuss |
-| 2 | 2 Dec | Quick pass through B, C, E with Matthew's tooling proposal; deep dive on "discuss" rows | Full grid filled in |
-| — | Between sessions | Laura drafts the one-page recommendation from the grid; asynchronous comments | Draft policy |
-| 3 | 16 Dec | Consent round on the draft ("can you live with it?"); agree what goes to the Governance workstream and the town hall | Recommendation sent on |
+|---|-------------------------------------|---|---|
+| 1 | 4 Nov ([MEETING NOTES](../2026-11-04_Documentation_Agenda-Notes.md))        | Agree the vocabulary and principles (sections 1–2); quick pass through tables A and D | Rows marked agreed / adjusted / discuss |
+| 2 | 18 Nov                              | Quick pass through B, C, E with Matthew's tooling proposal; deep dive on "discuss" rows | Full grid filled in |
+| — | Between sessions                    | Laura drafts the one-page recommendation from the grid; asynchronous comments | Draft policy |
+| 3 | 2 Dec                               | Consent round on the draft ("can you live with it?"); agree what goes to the Governance workstream and the town hall | Recommendation sent on |
 
 **Decision method:** consent, not unanimity. An item passes unless someone has a reasoned objection that it would harm the project. Objections are recorded and resolved, or the item drops to Recommended.
 

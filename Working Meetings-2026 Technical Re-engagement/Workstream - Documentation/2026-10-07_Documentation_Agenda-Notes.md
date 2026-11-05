@@ -78,6 +78,5 @@ Determine the tasks we'll accomplish for the next meeting.
   packaging pain points.
 
 # Key Actions
-- [ ] **All** review Hannah's documentation plan / gap analysis (Google Doc above)
 - [ ] **All** consider which projects to prioritize for documentation and bring thoughts to the next meeting
 - [ ] **All** start an improved SATOSA getting-started how-to guide as the first documentation example

@@ -1,11 +1,11 @@
-IdPy Worksteam: [WORKSTREAM]
+IdPy Worksteam: [WORKSTREAM - GOVERNANCE | FORK REVIEW | DOCUMENTATION]
 ====================================
 _2026 [MONTH DD]_
 
 [comment --- File naming convention: yyyy-mm-dd_wprkstreamName_Agenda-notes.md --- use "Documentation, "ForkReview", or "Governance" in place of "wprkstreamName" in the file name]: #
 
 # Agenda
-* Review updates from Board meeting & other workstreams
+* [if applicable] Review updates from Board & other workstreams
 * Review Actions from last meeting
     - [ ] list of Key Actions from last meeting
 * Discuss any blockers or new developments
@@ -25,7 +25,7 @@ _2026 [MONTH DD]_
 
 [comment --- List for Fork: _Laura Paglione, Michael Jones, Alessandro Distaso, Ivan Kanakarakis, Hannah Sebuliba, Matthew Economou, Johan Lundberg, Vlad Mencl_]: #
 
-[comment --- List for Documentation: _Laura Paglione, Shayna Atkinson, Hannah Sebuliba, Nanyonga Rahmah, Ivan Kanakarakis, Derrick Ssemanda, Matthew Economou, Elliott Elrod, Vlad Mencl_]: #
+[comment --- List for Documentation: _Laura Paglione, Shayna Atkinson, Hannah Sebuliba, Nanyonga Rahmah, Ivan Kanakarakis, Derrick Ssemanda, Matthew Economou, Elliott Elrod, Vlad Mencl, Shannon Roddy_]: #
 
 ---
 
