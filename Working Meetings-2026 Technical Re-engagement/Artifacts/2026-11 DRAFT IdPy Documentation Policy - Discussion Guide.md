@@ -136,7 +136,7 @@ When a row stalls, ask:
 
 | Session | Date (from the workstream schedule) | Goal | Output |
 |---|-------------------------------------|---|---|
-| 1 | 4 Nov ([MEETING NOTES](../2026-11-04_Documentation_Agenda-Notes.md))        | Agree the vocabulary and principles (sections 1–2); quick pass through tables A and D | Rows marked agreed / adjusted / discuss |
+| 1 | 4 Nov ([MEETING NOTES](../Workstream%20-%20Documentation/2026-11-04_Documentation_Agenda-Notes.md))        | Agree the vocabulary and principles (sections 1–2); quick pass through tables A and D | Rows marked agreed / adjusted / discuss |
 | 2 | 18 Nov                              | Quick pass through B, C, E with Matthew's tooling proposal; deep dive on "discuss" rows | Full grid filled in |
 | — | Between sessions                    | Laura drafts the one-page recommendation from the grid; asynchronous comments | Draft policy |
 | 3 | 2 Dec                               | Consent round on the draft ("can you live with it?"); agree what goes to the Governance workstream and the town hall | Recommendation sent on |

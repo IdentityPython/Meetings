@@ -7,7 +7,7 @@ _2026 November 04_
 # Agenda
 * Check-in
 * Consider components for an IdPy Documentation Policy
-  * Review the content of the [DRAFT IdPy Documentation Policy - Discussion Guide](https://github.com/IdentityPython/Meetings/blob/master/Working%20Meetings-2026%20Technical%20Re-engagement/Workstream%20-%20Documentation/2026-11%20DRAFT%20IdPy%20Documentation%20Policy%20-%20Discussion%20Guide.md)
+  * Review the content of the [DRAFT IdPy Documentation Policy - Discussion Guide](https://github.com/IdentityPython/Meetings/blob/master/Working%20Meetings-2026%20Technical%20Re-engagement/Artifacts/2026-11%20DRAFT%20IdPy%20Documentation%20Policy%20-%20Discussion%20Guide.md)
 * Determine the tasks we'll accomplish for the next meeting & make assignments
 
 # Attendees
@@ -24,7 +24,7 @@ _2026 November 04_
 
 # Notes
 
-* The group began reviewing the [DRAFT IdPy Documentation Policy - Discussion Guide](https://github.com/IdentityPython/Meetings/blob/master/Working%20Meetings-2026%20Technical%20Re-engagement/Workstream%20-%20Documentation/2026-11%20DRAFT%20IdPy%20Documentation%20Policy%20-%20Discussion%20Guide.md).
+* The group began reviewing the [DRAFT IdPy Documentation Policy - Discussion Guide](https://github.com/IdentityPython/Meetings/blob/master/Working%20Meetings-2026%20Technical%20Re-engagement/Artifacts/2026-11%20DRAFT%20IdPy%20Documentation%20Policy%20-%20Discussion%20Guide.md).
     * The guide is a framework for deciding, for each aspect of documentation, how strongly IdPy asks for it and who decides the details.
     * This workstream will produce a recommendation for the Governance workstream and maintainer group.
 * For context, the IdentityPython org has 33 repositories: 6 private security-related, 6 archived, and 18 active (12 updated in 2026).
