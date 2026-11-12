@@ -12,7 +12,8 @@ The following require input from Workstream members & the community. The list is
 
 **How to respond:** for working drafts, edit or comment directly in the Google Doc. For items you can read on GitHub, open an [issue](https://github.com/IdentityPython/Meetings/issues) or a pull request, or bring it to the next workstream meeting.
 
-> [!NOTE] _Updated **12 November 2026** · next update **19 November 2026**_
+> [!NOTE]
+> _Updated **12 November 2026** · next update **19 November 2026**_
 >
 > 1. **Comment on the documentation policy rows still to be discussed (sections B, C and E)**
   >    * **Artifact:** [Documentation Policy: Working Document](https://docs.google.com/document/d/1AgS15-xktdid1GWwDlCmMzbjMmJsenLG40RHX4CBdAs/edit?usp=sharing) (Google Doc, working draft; workstream participants only)
