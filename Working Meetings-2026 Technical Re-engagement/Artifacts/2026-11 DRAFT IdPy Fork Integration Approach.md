@@ -2,6 +2,9 @@
 
 _Governance & Fork Review workstream · coordinated by Laura Paglione · draft started 12 Nov 2026_
 
+> [!IMPORTANT]
+> **The live version of this draft is now in a [Google Doc](https://docs.google.com/document/d/1mD6xxdcYQkzWYpEGqLvucxoW3MtKv8JVQM0hZj5kHK0/edit?usp=drive_link)** for collaborative editing (workstream participants only). This copy on GitHub is a snapshot from 12 Nov 2026 and may be out of date.
+
 > [!NOTE]
 > **This is a starting draft, written in the shape we expect the final version to take.**
 > Sections marked ✍️ **Needed** are where the workstream needs your input. The starting positions come from Fork Review meeting notes. They are proposals, not decisions. A summary of what's needed is [at the end](#whats-needed-to-finish-this-draft).

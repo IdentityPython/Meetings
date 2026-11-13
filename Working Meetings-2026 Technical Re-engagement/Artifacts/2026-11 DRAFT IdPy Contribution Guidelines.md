@@ -2,6 +2,9 @@
 
 _Governance & Fork Review workstream · coordinated by Laura Paglione · draft started 12 Nov 2026_
 
+> [!IMPORTANT]
+> **The live version of this draft is now in a [Google Doc](https://docs.google.com/document/d/1UKQUJxGpt5t_zRlI1GZb_A2c2hZ9NdecJc0B-7NsJlA/edit?usp=drive_link)** for collaborative editing (workstream participants only). This copy on GitHub is a snapshot from 12 Nov 2026 and may be out of date.
+
 > [!NOTE]
 > **This is a starting draft, written in the shape we expect the final version to take.** Once agreed, it would become the default `CONTRIBUTING.md` for every IdentityPython repository. Projects could add their own details on top.
 > Sections marked ✍️ **Needed** are where the workstream needs your input. The starting positions come from workstream meeting notes, the draft [Documentation Policy](2026-11%20DRAFT%20IdPy%20Documentation%20Policy%20-%20Discussion%20Guide.md), and Alessandro's [gap analysis](IdentityPython_Gap_Analysis_Against_Open_Source_Best_Practices.md). They are proposals, not decisions. A summary of what's needed is [at the end](#whats-needed-to-finish-this-draft).
@@ -12,7 +15,7 @@ Thank you for helping! IdentityPython is maintained by volunteers, and contribut
 
 ## Before you start
 
-* **Check the project's status** at the top of its README. Projects marked _Seeking maintainers_ or _Archived_ may not get a response. See [project status](2026-11%20DRAFT%20IdPy%20Roles%20and%20Maintainer%20Model.md#project-status).
+* **Check the project's status** at the top of its README. Projects marked _Inactive_ (fewer than two maintainers) may not get a response, and _Archived_ projects don't accept changes. See [project status](2026-11%20DRAFT%20IdPy%20Roles%20and%20Maintainer%20Model.md#project-status).
 * **Found a security vulnerability?** Don't open a public issue. Follow the [security reporting process](https://github.com/IdentityPython/Governance/blob/master/idpy-incidentresponse.md) instead.
 * **Planning a larger change?** Open an issue first to discuss it, so your work fits the project's direction.
 * **Have a question?** ✍️ _[where to ask: mailing list / Slack / Discussions, to be set by the [communications strategy](2026-11%20DRAFT%20IdPy%20Communications%20Strategy.md)]_

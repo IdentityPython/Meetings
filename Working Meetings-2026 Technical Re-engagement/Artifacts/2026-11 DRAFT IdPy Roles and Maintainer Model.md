@@ -2,6 +2,9 @@
 
 _Governance & Fork Review workstream · coordinated by Laura Paglione · draft started 12 Nov 2026_
 
+> [!IMPORTANT]
+> **The live version of this draft is now in a [Google Doc](https://docs.google.com/document/d/1Yqsrzqa-1PRybCcFxHbx6FlnxLeAGHen_ddQBWMyW5s/edit?usp=drive_link)** for collaborative editing (workstream participants only). This copy on GitHub is a snapshot from 12 Nov 2026 and may be out of date.
+
 > [!NOTE]
 > **This is a starting draft, written in the shape we expect the final version to take.**
 > Sections marked ✍️ **Needed** are where the workstream needs your input. The starting positions come from workstream meeting notes, Board decisions, and Alessandro's [gap analysis](IdentityPython_Gap_Analysis_Against_Open_Source_Best_Practices.md). They are proposals, not decisions. A summary of what's needed is [at the end](#whats-needed-to-finish-this-draft).
@@ -52,9 +55,9 @@ This applies to every public, non-archived repository in the IdentityPython orga
 | [satosa-refarch-aws](https://github.com/IdentityPython/satosa-refarch-aws) | SATOSA reference deployment on AWS | ✍️ | ✍️ |
 | [new-session-management](https://github.com/IdentityPython/new-session-management) | Session management design docs | ✍️ | ✍️ |
 | **Project administration** | | | |
-| [IdentityPython.github.io](https://github.com/IdentityPython/IdentityPython.github.io) | Website (idpy.org) | Laura Paglione ✍️ | ✍️ |
-| [Meetings](https://github.com/IdentityPython/Meetings) | Meeting notes and artifacts | Laura Paglione ✍️ | ✍️ |
-| [Governance](https://github.com/IdentityPython/Governance) | Governance documents | Laura Paglione ✍️ | ✍️ |
+| [IdentityPython.github.io](https://github.com/IdentityPython/IdentityPython.github.io) | Website (idpy.org) | IdPy Coordinator (Laura Paglione)<br/>IdPy Board Chair | ✍️ |
+| [Meetings](https://github.com/IdentityPython/Meetings) | Meeting notes and artifacts | IdPy Coordinator (Laura Paglione)<br/>IdPy Board Chair | ✍️ |
+| [Governance](https://github.com/IdentityPython/Governance) | Governance documents | IdPy Coordinator (Laura Paglione)<br/>IdPy Board Chair | ✍️ |
 
 > ✍️ **Needed:**
 > * Confirm who maintains each project today, by name. Organizations such as SUNET can back a project, but the maintainers listed should be people.
