@@ -2,6 +2,9 @@
 
 _For the Documentation workstream · Laura Paglione · draft started 4 Nov 2026 · for discussion at the next meeting_
 
+> [!IMPORTANT]
+> **The live version of this draft is now in a [Google Doc](https://docs.google.com/document/d/1ELdoa-lBxhRR3pt2cEVwUrWHpKYj6ddQ2xtW-a0ltxw/edit?usp=sharing)** for collaborative editing (workstream participants). This copy on GitHub is a snapshot and may be out of date.
+
 **What this is.** A small set of page templates that every IdentityPython project can fill in, so a newcomer finds the same kinds of information in the same places whichever project they open. These are **structure templates**. They say which sections a page has, in what order, at what level of detail and in what format. They don't prescribe wording.
 
 **Why templates.** Two reasons came up on 21 October:

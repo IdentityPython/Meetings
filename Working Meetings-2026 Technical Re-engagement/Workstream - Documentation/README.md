@@ -53,16 +53,15 @@ _Artifacts created by the workgroup. These are now collected, with descriptions 
 2. :calendar: 2026-10-07 - [Agenda/meeting notes](2026-10-07_Documentation_Agenda-Notes.md)
 3. :calendar: 2026-10-21 - [Agenda/meeting notes](2026-10-21_Documentation_Agenda-Notes.md)
 4. :calendar: 2026-11-04 - [Agenda/meeting notes](2026-11-04_Documentation_Agenda-Notes.md)
+5. :calendar: 2026-11-18 - [Agenda/meeting notes](2026-11-18_Documentation_Agenda-Notes.md)
 
 
 ### UPCOMING
-5. :calendar: 2026-11-18 - [Agenda/meeting notes](2026-11-18_Documentation_Agenda-Notes.md)
+6. :calendar: 2026-12-02 - [Agenda/meeting notes](2026-12-02_Documentation_Agenda-Notes.md)
+   * Review updates from Board meeting & other workstreams
    * Review Actions from past meeting
-       - [ ] Documentation structure and tooling proposal _(Matthew)_
-       - [ ] Documentation inventory template _(Laura)_
-       - [ ] [Examples](../Artifacts/2026-11%20DRAFT%20IdPy%20Documentation%20Examples.md) of high-quality documentation _(Laura)_
-       - [ ] [Documentation Inventory](../Artifacts/2026-11%20DRAFT%20IdPy%20Documentation%20Inventory.md) _(First pass, w/AI assist)_
-   * Further the discussion about [IdPy Documentation Policy in GoogleDocs](https://docs.google.com/document/d/1AgS15-xktdid1GWwDlCmMzbjMmJsenLG40RHX4CBdAs/edit?usp=sharing) _([4-Nov-2026 version on Github](../Artifacts/2026-11%20DRAFT%20IdPy%20Documentation%20Policy%20-%20Discussion%20Guide.md))_
+   * [IdPy Documentation Policy](https://docs.google.com/document/d/1AgS15-xktdid1GWwDlCmMzbjMmJsenLG40RHX4CBdAs/edit?tab=t.74mzcwef7yj8): remaining items _(community feedback; C1 tooling; C3 theme and branding; shared resources)_
+   * Review the [Documentation Templates](https://docs.google.com/document/d/1ELdoa-lBxhRR3pt2cEVwUrWHpKYj6ddQ2xtW-a0ltxw/edit?usp=sharing), starting with the front-matter pages
    * Determine the tasks we'll accomplish for the next meeting.
 
 ### FUTURE MEETINGS
@@ -72,7 +71,6 @@ _Artifacts created by the workgroup. These are now collected, with descriptions 
 > * Review schedule for upcoming meetings for feasibility
 > * Determine the tasks we'll accomplish for the next meeting
 
-6. :calendar: 2026-12-02
 7. :calendar: 2026-12-16
 8. :calendar: 2026-11-30
 
