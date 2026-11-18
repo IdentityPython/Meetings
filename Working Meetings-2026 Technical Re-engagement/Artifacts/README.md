@@ -33,7 +33,7 @@ The following require input from Workstream members & the community. The list is
 >      * Bring your initial thoughts on the four drafts, especially the sections marked ✍️ **Needed**.
 >      * Think about which draft you could help write. At the meeting, we'll ask for a commitment to contribute to each one.
 >    * **Who:** Governance & Fork Review workstream
->    * **By:** the next Governance & Fork Review meeting (24 or 25 Nov, day to be confirmed)
+>    * **By:** Wednesday 25 Nov, the first combined Governance & Fork Review meeting (6:00 San Francisco / 9:00 New York / 13:00 London / 15:00 Berlin)
 > 3. **New Resources for Review** - Items that have been added since the last update
 >    * Policies
 >      * **[Contribution Guidelines](2026-11%20DRAFT%20IdPy%20Contribution%20Guidelines.md)** - _Starting draft of the guidelines every contributor would follow: before you start, making a pull request, and what happens next. Would become the default `CONTRIBUTING.md` for every repository._

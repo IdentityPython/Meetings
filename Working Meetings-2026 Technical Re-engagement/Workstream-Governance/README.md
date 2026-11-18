@@ -33,30 +33,16 @@ This folder contains meeting notes and artifacts for the workstream discussing t
 
 ## MEETINGS
 
+> _**UPDATE 10 November 2026:** This workstream has been combined with the Fork Review workstream. Future meetings are listed in the [Governance & Fork Review](../Workstream-Governance%20and%20Fork%20Review) folder. Notes from the meetings below remain here._
+
 ### PAST MEETINGS
 1. :calendar: 2026-09-16 - [Agenda/meeting notes](2026-09-16_Governance_Agenda-Notes.md)
 2. :calendar: 2026-09-30 - [Agenda/meeting notes](2026-09-30_Governance_Agenda-Notes.md)
-
-### UPCOMING
 3. :calendar: 2026-10-14 - [Agenda/meeting notes](2026-10-14_Governance_Agenda-Notes.md)
-    * Review and consent to Key Deliverables, Goals, and Tasks
-    * **DECISION: Do we combine this workstream with the Fork Review one?**
-    * Consent to high-level schedule through the end of 2026
-    * Determine the tasks we'll accomplish for the next meeting.
+4. :calendar: 2026-10-28 - _CANCELLED for TechEx Conference_
 
 ### FUTURE MEETINGS
-
-> _Each of the future meetings will have a similar agenda format:_
-> * Review progress - discuss blockers
-> * Review schedule for upcoming meetings for feasibility
-> * Determine the tasks we'll accomplish for the next meeting
-
-
-4. :calendar: 2026-10-28 << Suggest Cancelling this meeting due to TechEx
-5. :calendar: 2026-11-11
-6. :calendar: 2026-11-25
-7. :calendar: 2026-12-09
-8. :calendar: 2026-12-23
+_See the combined [Governance & Fork Review](../Workstream-Governance%20and%20Fork%20Review#meetings) workstream._
 
 ---
 

@@ -10,7 +10,7 @@ This folder contains meeting notes for the combined **Technical Governance** and
 ## Invited Participants (13)
 *Alessandro Distaso, Elliott Elrod, Hannah Sebuliba, Ivan Kanakarakis, Laura Paglione, Rahmah Nanyonga, Derrick Ssemanda, Matthew Economou, Robin Blair, Vlad Mencl, Federico Bond, Michael Jones, Johan Lundberg*
 
-> _**Want to participate?** RSVP link to be added once the combined meeting time is set._
+> _**Want to participate?** Subscribe to the [IdPy Meeting Calendar](https://www.addevent.com/calendar/tt4fnvvjjnsk) to get this and all other IdPy meetings on your calendar._
 
 ## KEY DELIVERABLES IN SCOPE
 
@@ -48,15 +48,13 @@ This folder contains meeting notes for the combined **Technical Governance** and
 
 ## MEETINGS
 
-> _**Meeting day to be confirmed:** the combined workstream will meet every two weeks, either in the former Fork Review slot (Tuesdays) or the former Governance slot (Wednesdays)._
+> _The combined workstream meets every two weeks on **Wednesdays** at 6:00 San Francisco / 9:00 New York / 13:00 London / 15:00 Berlin._
 
 ### UPCOMING
 
-| # | Tuesday option | Wednesday option | Agenda/meeting notes |
-|---|---|---|---|
-| 1 | 2026-11-24 | 2026-11-25 | _To be posted_ |
-| 2 | 2026-12-08 | 2026-12-09 | _To be posted_ |
-| 3 | 2026-12-22 | 2026-12-23 | _To be posted_ |
+1. :calendar: 2026-11-25 - _Agenda/meeting notes to be posted_
+2. :calendar: 2026-12-09
+3. :calendar: 2026-12-23
 
 > _Each meeting will have a similar agenda format:_
 > * Review progress - discuss blockers
